@@ -1,6 +1,6 @@
 # cli_snake
 
-cli snake program
+snake console program
 
 ## Running it
 
